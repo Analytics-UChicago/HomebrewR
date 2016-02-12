@@ -1,0 +1,10 @@
+---
+output: html_document
+header-includes:
+   - /usepackage{bbm}
+---
+<center> 
+<div style="width:800px; height=300px">
+![alt text](http://galligroup.uchicago.edu/img/uchicago-logo.jpg)
+</div>
+<br>
